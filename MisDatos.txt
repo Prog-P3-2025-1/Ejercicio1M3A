@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+brunogomez2312@gmail.com
+=======
 Liliana.pino@fi365.ort.edu.uy
 Cuenta git: josepedro2709
+>>>>>>> 4a8ee8380a4e9dbb4aed0a642399d2641ab57439
